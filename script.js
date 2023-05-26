@@ -270,7 +270,7 @@ gsap.from('#page7 h1',{
     trigger:'#page7',
     scroller:'#main',
     scrub:true,
-    markers:true,
+    // markers:true,
     start:'top 82%',
     end:'top 10%'
 
